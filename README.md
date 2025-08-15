@@ -47,5 +47,5 @@ A base da URL para todos os endpoints é o endereço do seu servidor (ex: `http:
 
 ## ☁️ Deploy
 
-  - **Link do Deploy no Render**: 
-  - **Link do Banco de Dados no Mongo Atlas**: 
+  - **Link do Deploy no Render**: https://mywallt-back-end.onrender.com 
+  - **Link do Banco de Dados no Mongo Atlas**: https://cloud.mongodb.com/v2/689606b19420c3472f6945cc#/clusters/detail/MyWallet
