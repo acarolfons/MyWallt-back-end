@@ -1,5 +1,3 @@
-### **README.md**
-
 # MyWallet - Backend
 
 Este é o backend do projeto MyWallet, uma API RESTful para gerenciamento de finanças pessoais. Ele permite que os usuários se cadastrem, façam login e registrem suas transações de entrada e saída.
