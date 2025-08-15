@@ -8,7 +8,7 @@ export let db;
 
 try {
   await mongoClient.connect();
-  db = mongoClient.db("carol");
+  db = mongoClient.db();
   console.log("Conexão com o MongoDB estabelecida com sucesso!");
 } catch (err) {
   console.log("Erro ao se conectar com MongoDB:", err);
