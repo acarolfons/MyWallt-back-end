@@ -1,9 +1,3 @@
-Claro. Com base nos arquivos e na estrutura do projeto que você me forneceu, posso criar um `README.md` completo para o seu projeto de backend.
-
-O `README.md` abaixo inclui seções importantes como descrição, funcionalidades, tecnologias, como rodar o projeto localmente e os endpoints da API.
-
------
-
 ### **README.md**
 
 # MyWallet - Backend
